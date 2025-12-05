@@ -22,11 +22,11 @@ Pull before pushing
 # Author: Youssef Makrom
 # Course: Intro to Computer Science
 
-x <- 5
-y <- 10
-z <- x + y
+a <- 5
+b <- 10
+c <- x + y
 
-print(z)
+print(c)
 
 ```
 
