@@ -22,8 +22,8 @@ Pull before pushing
 # Author: Youssef Makrom
 # Course: Intro to Computer Science
 
-a <- 5
-b <- 10
+a <- 15
+b <- 20
 c <- a + b
 
 print(c)
