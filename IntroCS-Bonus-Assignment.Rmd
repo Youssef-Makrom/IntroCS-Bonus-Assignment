@@ -24,7 +24,7 @@ Pull before pushing
 
 a <- 5
 b <- 10
-c <- x + y
+c <- a + b
 
 print(c)
 
