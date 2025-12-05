@@ -1,7 +1,11 @@
 ---
-title: "R Notebook"
+title: "Intro CS Bonus Assignment"
 author: "Youssef Makrom"
-output: html_notebook
+date: "12/4/2025"
+output:
+  html_document:
+    df_print: paged
+subtitle: 'CPSC 292 Section 01'
 ---
 
 # Practice:
@@ -11,3 +15,18 @@ plot(mtcars$mpg, mtcars$wt)
 ```
 
 Pull before pushing 
+
+#3 Commits:
+```{r}
+# My first R script
+# Author: Youssef Makrom
+# Course: Intro to Computer Science
+
+x <- 5
+y <- 10
+z <- x + y
+
+print(z)
+
+```
+
