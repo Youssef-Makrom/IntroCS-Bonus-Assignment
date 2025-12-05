@@ -10,3 +10,4 @@ output: html_notebook
 plot(mtcars$mpg, mtcars$wt)
 ```
 
+Pull before pushing 
